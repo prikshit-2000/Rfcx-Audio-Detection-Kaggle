@@ -4,5 +4,5 @@ Competition Link : https://www.kaggle.com/c/rfcx-species-audio-detection/overvie
 
 Folllow me on Kaggle: https://www.kaggle.com/prikshitsingla
 
-Follow my friend and collaborator in this project Akshit (mastermind 2001) on Kaggle : https://www.kaggle.com/sharmaakshit122
+Follow my friend and collaborator in this project Akshit Sharma (mastermind2001) on Kaggle : https://www.kaggle.com/sharmaakshit122
 
